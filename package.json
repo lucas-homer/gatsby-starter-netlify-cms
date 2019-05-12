@@ -28,8 +28,10 @@
     "parcel-bundler": "^1.9.4",
     "prop-types": "^15.6.0",
     "react": "^16.8.4",
+    "react-audio-player": "^0.11.0",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
+    "react-twitter-embed": "^2.0.8",
     "uuid": "^3.2.1"
   },
   "keywords": [
