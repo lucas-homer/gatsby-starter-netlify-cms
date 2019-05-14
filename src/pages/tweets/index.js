@@ -21,6 +21,7 @@ export default function Tweets() {
               <ReactAudioPlayer
                 autoPlay={false}
                 controls
+                controlsList="nodownload"
                 src="https://s3.amazonaws.com/staa/Strathman/Football1.mp3"
                 style={{
                   width: "600px",
